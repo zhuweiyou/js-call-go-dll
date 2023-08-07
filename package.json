@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "js-call-go-dll",
+  "version": "1.0.0",
+  "description": "JavaScript 调用 GoLang 编译的 DLL 示例",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ffi-napi": "^4.0.3",
+    "ref-napi": "^3.0.3",
+    "ref-struct-di": "^1.1.1"
+  }
+}
